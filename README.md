@@ -1,3 +1,3 @@
-## Yo! 👋
+## Hey There! i'm Srthk  👋
  
   
