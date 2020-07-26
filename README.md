@@ -1,7 +1,7 @@
 ## Hey There! i'm Srthk  👋
 
 - 🌱 I’m pretty much confident in Flutter.
-- ♥️ Loves the Bloc Pattern.
+- ♥️ Loves the Bloc Pattern and the MVVM Pattern.
 - 🤔 Android Developer
 - 💬 Ask me about Flutter or any tech related stuff i can help
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/srthk-pthk-7a673a170/) || [Instagram](https://www.instagram.com/mr_insomaniac/)
