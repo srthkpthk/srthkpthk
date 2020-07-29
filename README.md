@@ -1,5 +1,7 @@
 ## Hello? Hello? Hello? Is there anybody in there? Just nod if you can hear me... I'm Srthk 👋
 
+![](https://komarev.com/ghpvc/?username=srthkpthk)
+
 - 🌱 I’m pretty much confident in Flutter.
 - ♥️ Loves the Bloc Pattern and MVVM.
 - 🤔 Android Developer
