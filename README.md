@@ -1,7 +1,7 @@
 ## Hello? Hello? Hello? Is there anybody in there? Just nod if you can hear me... I'm Srthk 👋
 
-![](https://komarev.com/ghpvc/?username=srthkpthk)
-
+ ![](https://komarev.com/ghpvc/?username=srthkpthk&style=flat-square&color=blue&label=Welcomes)
+ 
 - 🌱 I’m pretty much confident in Flutter.
 - ♥️ Loves the Bloc Pattern and MVVM.
 - 🤔 Android Developer
@@ -20,7 +20,13 @@ When all are one and one is all
 To be a rock and not to roll...** 
 
 *Led Zeppelin IV - Stairway to Heaven ♥️♥️♥️*
-
- <hr>
-<img src="https://github-readme-stats.vercel.app/api?username=srthkpthk&title_color=fff&text_color=9f9f9f&bg_color=151515">
-
+## Loves 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<hr>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=srthkpthk&title_color=fff&text_color=9f9f9f&bg_color=151515" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=dark" alt="Stats for Srthk"/>
