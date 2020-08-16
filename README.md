@@ -26,6 +26,11 @@ To be a rock and not to roll...**
 
 *Led Zeppelin IV - Stairway to Heaven ♥️♥️♥️*
 
+## Ongoing Self Projects (3)
+[![Amigos: A Social Media Platform](https://github-readme-stats.vercel.app/api/pin/?username=srthkpthk&repo=amigos)](https://github.com/srthkpthk/amigos)
+[![Json to Firebase : Dart](https://github-readme-stats.vercel.app/api/pin/?username=srthkpthk&repo=json2firebase)](https://github.com/srthkpthk/json2firebase)
+[![WallEye](https://github-readme-stats.vercel.app/api/pin/?username=srthkpthk&repo=walleye)](https://github.com/srthkpthk/walleye)
+
 ### Have a Project  >  [Submit Details](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=srthk.pthk4@gmail.com&su=Hello%20Srthk%20i%20have%20an%20astonishing%20project%20named%20%20-%3E&cc=sarthakforupwork@gmail.com&tf=1)
 ## Loves 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
