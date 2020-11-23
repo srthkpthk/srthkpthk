@@ -11,7 +11,6 @@
   - Published a Plugin on Jetbrains : [Json to Firebase : Dart](https://plugins.jetbrains.com/plugin/14870-json-to-firebase--dart)
   - Lot More to Do 
 - 💬 Ask me about Flutter or any tech related stuff i can help
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/srthk-pthk-7a673a170/) 🔺 [Instagram](https://www.instagram.com/mr_insomaniac/) 🔺 [Facebook](https://www.facebook.com/srthkpthk) 
 - 😄 Pronouns: He/Him/His
 - 🤫 I'm writing a book for OOP's in HTML
 > **And as we wind on down the road
