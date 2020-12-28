@@ -25,6 +25,30 @@ When all are one and one is all
 To be a rock and not to roll...** 
 
 *Led Zeppelin IV - Stairway to Heaven ♥️♥️♥️*
+```bash srthk@srthk-pc:~$ neofetch
+             `..---+/---..`                srthk@srthk-pc 
+         `---.``   ``   `.---.`            -------------- 
+      .--.`        ``        `-:-.         OS: KDE neon User Edition 5.20 x86_64 
+    `:/:     `.----//----.`     :/-        Host: HP Laptop 15-bs1xx 
+   .:.    `---`          `--.`    .:`      Kernel: 5.4.0-54-generic 
+  .:`   `--`                .:-    `:.     Uptime: 6 mins 
+ `/    `:.      `.-::-.`      -:`   `/`    Packages: 1634 (dpkg) 
+ /.    /.     `:++++++++:`     .:    .:    Shell: bash 5.0.17 
+`/    .:     `+++++++++++/      /`   `+`   Resolution: 1920x1080 
+/+`   --     .++++++++++++`     :.   .+:   DE: Plasma 
+`/    .:     `+++++++++++/      /`   `+`   WM: KWin 
+ /`    /.     `:++++++++:`     .:    .:    WM Theme: plastik 
+ ./    `:.      `.:::-.`      -:`   `/`    Theme: Breeze Dark [Plasma], Breeze [GTK2/3] 
+  .:`   `--`                .:-    `:.     Icons: breeze-dark [Plasma], breeze-dark [GTK2/3] 
+   .:.    `---`          `--.`    .:`      Terminal: konsole 
+    `:/:     `.----//----.`     :/-        CPU: Intel i5-8250U (8) @ 3.400GHz 
+      .-:.`        ``        `-:-.         GPU: Intel UHD Graphics 620 
+         `---.``   ``   `.---.`            GPU: AMD ATI Radeon HD 8670A/8670M/8690M / R5 M330 / M430 / Radeon 520 Mobile 
+             `..---+/---..`                Memory: 945MiB / 11898MiB 
+
+                                                                   
+                                                                   
+```
 
 ## Ongoing Self Projects (3)
 [![Amigos: A Social Media Platform](https://github-readme-stats.vercel.app/api/pin/?username=srthkpthk&repo=amigos)](https://github.com/srthkpthk/amigos)
