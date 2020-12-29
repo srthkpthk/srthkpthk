@@ -14,40 +14,27 @@
 - 💬 Ask me about Flutter or any tech related stuff i can help
 - 😄 Pronouns: He/Him/His
 - 🤫 I'm writing a book for OOP's in HTML
-> **And as we wind on down the road
-Our shadows taller than our soul
-There walks a lady we all know
-Who shines white light and wants to show
-How everything still turns to gold
-And if you listen very hard
-The tune will come to you at last
-When all are one and one is all
-To be a rock and not to roll...** 
-
-*Led Zeppelin IV - Stairway to Heaven ♥️♥️♥️*
-```bash srthk@srthk-pc:~$ neofetch
+```bash 
              `..---+/---..`                srthk@srthk-pc 
          `---.``   ``   `.---.`            -------------- 
       .--.`        ``        `-:-.         OS: KDE neon User Edition 5.20 x86_64 
     `:/:     `.----//----.`     :/-        Host: HP Laptop 15-bs1xx 
-   .:.    `---`          `--.`    .:`      Kernel: 5.4.0-54-generic 
-  .:`   `--`                .:-    `:.     Uptime: 6 mins 
- `/    `:.      `.-::-.`      -:`   `/`    Packages: 1634 (dpkg) 
+   .:.    `---`          `--.`    .:`      Kernel: 5.4.0-58-generic 
+  .:`   `--`                .:-    `:.     Uptime: 41 mins 
+ `/    `:.      `.-::-.`      -:`   `/`    Packages: 1983 (dpkg) 
  /.    /.     `:++++++++:`     .:    .:    Shell: bash 5.0.17 
 `/    .:     `+++++++++++/      /`   `+`   Resolution: 1920x1080 
 /+`   --     .++++++++++++`     :.   .+:   DE: Plasma 
 `/    .:     `+++++++++++/      /`   `+`   WM: KWin 
- /`    /.     `:++++++++:`     .:    .:    WM Theme: plastik 
+ /`    /.     `:++++++++:`     .:    .:    WM Theme: Sweet-Mars 
  ./    `:.      `.:::-.`      -:`   `/`    Theme: Breeze Dark [Plasma], Breeze [GTK2/3] 
-  .:`   `--`                .:-    `:.     Icons: breeze-dark [Plasma], breeze-dark [GTK2/3] 
+  .:`   `--`                .:-    `:.     Icons: candy-icons [Plasma], candy-icons [GTK2/3] 
    .:.    `---`          `--.`    .:`      Terminal: konsole 
     `:/:     `.----//----.`     :/-        CPU: Intel i5-8250U (8) @ 3.400GHz 
       .-:.`        ``        `-:-.         GPU: Intel UHD Graphics 620 
-         `---.``   ``   `.---.`            GPU: AMD ATI Radeon HD 8670A/8670M/8690M / R5 M330 / M430 / Radeon 520 Mobile 
-             `..---+/---..`                Memory: 945MiB / 11898MiB 
+         `---.``   ``   `.---.`            GPU: AMD ATI Radeon HD 8670A/8670M/8690M / R5 M330 / M430 / Radeon 520 Mob 
+             `..---+/---..`                Memory: 1783MiB / 11898MiB 
 
-                                                                   
-                                                                   
 ```
 
 ## Ongoing Self Projects (3)
