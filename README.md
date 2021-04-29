@@ -14,30 +14,8 @@
 - 💬 Ask me about Flutter or any tech related stuff i can help
 - 😄 Pronouns: He/Him/His
 - 🤫 I'm writing a book for OOP's in HTML
-```bash 
-             `..---+/---..`                srthk@srthk-pc 
-         `---.``   ``   `.---.`            -------------- 
-      .--.`        ``        `-:-.         OS: KDE neon User Edition 5.21 x86_64 
-    `:/:     `.----//----.`     :/-        Host: HP Laptop 15-bs1xx 
-   .:.    `---`          `--.`    .:`      Kernel: 5.4.0-66-generic 
-  .:`   `--`                .:-    `:.     Uptime: 51 mins 
- `/    `:.      `.-::-.`      -:`   `/`    Packages: 1680 (dpkg) 
- /.    /.     `:++++++++:`     .:    .:    Shell: bash 5.0.17 
-`/    .:     `+++++++++++/      /`   `+`   Resolution: 1920x1080 
-/+`   --     .++++++++++++`     :.   .+:   DE: Plasma 
-`/    .:     `+++++++++++/      /`   `+`   WM: KWin 
- /`    /.     `:++++++++:`     .:    .:    WM Theme: plastik 
- ./    `:.      `.:::-.`      -:`   `/`    Theme: Breeze Dark [Plasma], Breeze [GTK2/3] 
-  .:`   `--`                .:-    `:.     Icons: breeze-dark [Plasma], breeze-dark [GTK2/3] 
-   .:.    `---`          `--.`    .:`      Terminal: konsole 
-    `:/:     `.----//----.`     :/-        CPU: Intel i5-8250U (8) @ 3.400GHz 
-      .-:.`        ``        `-:-.         GPU: Intel UHD Graphics 620 
-         `---.``   ``   `.---.`            GPU: AMD ATI Radeon HD 8670A/8670M/8690M / R5 M330 / M430 / Radeon 520 Mobile 
-             `..---+/---..`                Memory: 5475MiB / 11898MiB 
 
-```
-
-## Ongoing Self Projects (2)
+## Ongoing Projects (2)
 [![Amigos: A Social Media Platform](https://github-readme-stats.vercel.app/api/pin/?username=srthkpthk&repo=amigos)](https://github.com/srthkpthk/amigos)
 [![WallEye](https://github-readme-stats.vercel.app/api/pin/?username=srthkpthk&repo=walleye)](https://github.com/srthkpthk/walleye)
 
