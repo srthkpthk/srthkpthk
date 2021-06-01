@@ -5,7 +5,7 @@
 - 🌱 I’m pretty much confident in Flutter.
 - ♥️ Loves the Bloc Pattern and MVVM.
 - 🤔 Android Developer and Flutter Developer
-- 🤓 Wanna Be: Freelancer
+- 🤓 Currently : Freelancer
 - 🎯 Mini Goals Completed 
   - Published Package on pub.dev : [Splitwise API](https://pub.dev/packages/splitwise_api)
   - Published a Plugin on Jetbrains : [Json to Firebase : Dart](https://plugins.jetbrains.com/plugin/14870-json-to-firebase--dart)
