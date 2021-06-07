@@ -15,26 +15,25 @@
 - 😄 Pronouns: He/Him/His
 - 🤫 I'm writing a book for OOP's in HTML
 ```
-             /////////////                nullvector@pop-os 
-         /////////////////////            ----------------- 
-      ///////*767////////////////         OS: Pop!_OS 20.10 x86_64 
-    //////7676767676*//////////////       Host: HP Laptop 15-bs1xx 
-   /////76767//7676767//////////////      Kernel: 5.11.0-7614-generic 
-  /////767676///*76767///////////////     Uptime: 24 mins 
- ///////767676///76767.///7676*///////    Packages: 1654 (dpkg) 
-/////////767676//76767///767676////////   Shell: bash 5.0.17 
-//////////76767676767////76767/////////   Resolution: 1920x1080 
-///////////76767676//////7676//////////   DE: GNOME 3.38.3 
-////////////,7676,///////767///////////   WM: Mutter 
-/////////////*7676///////76////////////   WM Theme: Pop 
-///////////////7676////////////////////   Theme: Pop-dark [GTK2/3] 
- ///////////////7676///767////////////    Icons: Pop [GTK2/3] 
-  //////////////////////'////////////     Terminal: gnome-terminal 
-   //////.7676767676767676767,//////      CPU: Intel i5-8250U (8) @ 3.400GHz 
-    /////767676767676767676767/////       GPU: Intel UHD Graphics 620 
-      ///////////////////////////         GPU: AMD ATI Radeon HD 8670A/8670M/86 
-         /////////////////////            Memory: 2416MiB / 11889MiB 
-             /////////////
+          /:-------------:\          srthk@fedora 
+       :-------------------::        ------------ 
+     :-----------/shhOHbmp---:\      OS: Fedora release 34 (Thirty Four) x86_64 
+   /-----------omMMMNNNMMD  ---:     Host: HP Laptop 15-bs1xx 
+  :-----------sMMMMNMNMP.    ---:    Kernel: 5.12.8-300.fc34.x86_64 
+ :-----------:MMMdP-------    ---\   Uptime: 2 mins 
+,------------:MMMd--------    ---:   Packages: 1720 (rpm) 
+:------------:MMMd-------    .---:   Shell: bash 5.1.0 
+:----    oNMMMMMMMMMNho     .----:   Resolution: 1920x1080 
+:--     .+shhhMMMmhhy++   .------/   DE: GNOME 40.1 
+:-    -------:MMMd--------------:    WM: Mutter 
+:-   --------/MMMd-------------;     WM Theme: Adwaita 
+:-    ------/hMMMy------------:      Theme: WhiteSur-dark [GTK2/3] 
+:-- :dMNdhhdNMMNo------------;       Icons: WhiteSur-dark [GTK2/3] 
+:---:sdNMMMMNds:------------:        Terminal: gnome-terminal 
+:------:://:-------------::          CPU: Intel i5-8250U (8) @ 1.600GHz 
+:---------------------://            GPU: AMD ATI Radeon HD 8670A/8670M/8690M / 
+                                     GPU: Intel UHD Graphics 620 
+                                     Memory: 2054MiB / 11886MiB 
 ```
 ## Ongoing Projects (2)
 [![Amigos: A Social Media Platform](https://github-readme-stats.vercel.app/api/pin/?username=srthkpthk&repo=amigos)](https://github.com/srthkpthk/amigos)
