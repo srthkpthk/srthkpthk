@@ -3,9 +3,8 @@
  ![](https://komarev.com/ghpvc/?username=srthkpthk&style=flat-square&color=blue&label=Welcomes)
  
 - 🌱 I’m pretty much confident in Flutter.
-- ♥️ Loves the Bloc Pattern and MVVM.
-- 🤔 Android Developer and Flutter Developer
-- 🤓 Currently : Freelancer
+- ♥️ Loves the Bloc Pattern.
+- 🤓 Currently Working as : Full Time && Freelancer 
 - 🎯 Mini Goals Completed 
   - Published Package on pub.dev : [Splitwise API](https://pub.dev/packages/splitwise_api)
   - Published a Plugin on Jetbrains : [Json to Firebase : Dart](https://plugins.jetbrains.com/plugin/14870-json-to-firebase--dart)
@@ -15,25 +14,24 @@
 - 😄 Pronouns: He/Him/His
 - 🤫 I'm writing a book for OOP's in HTML
 ```
-          /:-------------:\          srthk@fedora 
-       :-------------------::        ------------ 
-     :-----------/shhOHbmp---:\      OS: Fedora release 34 (Thirty Four) x86_64 
-   /-----------omMMMNNNMMD  ---:     Host: HP Laptop 15-bs1xx 
-  :-----------sMMMMNMNMP.    ---:    Kernel: 5.12.8-300.fc34.x86_64 
- :-----------:MMMdP-------    ---\   Uptime: 2 mins 
-,------------:MMMd--------    ---:   Packages: 1720 (rpm) 
-:------------:MMMd-------    .---:   Shell: bash 5.1.0 
-:----    oNMMMMMMMMMNho     .----:   Resolution: 1920x1080 
-:--     .+shhhMMMmhhy++   .------/   DE: GNOME 40.1 
-:-    -------:MMMd--------------:    WM: Mutter 
-:-   --------/MMMd-------------;     WM Theme: Adwaita 
-:-    ------/hMMMy------------:      Theme: WhiteSur-dark [GTK2/3] 
-:-- :dMNdhhdNMMNo------------;       Icons: WhiteSur-dark [GTK2/3] 
-:---:sdNMMMMNds:------------:        Terminal: gnome-terminal 
-:------:://:-------------::          CPU: Intel i5-8250U (8) @ 1.600GHz 
-:---------------------://            GPU: AMD ATI Radeon HD 8670A/8670M/8690M / 
-                                     GPU: Intel UHD Graphics 620 
-                                     Memory: 2054MiB / 11886MiB 
+         eeeeeeeeeeeeeeeee            v3num@nullvector 
+      eeeeeeeeeeeeeeeeeeeeeee         ---------------- 
+    eeeee  eeeeeeeeeeee   eeeee       OS: elementary OS 5.1.7 Hera x86_64 
+  eeee   eeeee       eee     eeee     Host: HP Laptop 15-bs1xx 
+ eeee   eeee          eee     eeee    Kernel: 5.4.0-77-generic 
+eee    eee            eee       eee   Uptime: 5 hours, 22 mins 
+eee   eee            eee        eee   Packages: 1729 
+ee    eee           eeee       eeee   Shell: bash 4.4.20 
+ee    eee         eeeee      eeeeee   Resolution: 1920x1080 
+ee    eee       eeeee      eeeee ee   DE: Pantheon 
+eee   eeee   eeeeee      eeeee  eee   WM: Mutter(Gala) 
+eee    eeeeeeeeee     eeeeee    eee   Terminal: io.elementary.t 
+ eeeeeeeeeeeeeeeeeeeeeeee    eeeee    CPU: Intel i5-8250U (8) @ 3.400GHz 
+  eeeeeeee eeeeeeeeeeee      eeee     GPU: AMD Radeon HD 8670A/8670M/8690M 
+    eeeee                 eeeee       GPU: Intel UHD Graphics 620 
+      eeeeeee         eeeeeee         Memory: 2518MiB / 11898MiB 
+         eeeeeeeeeeeeeeeee 
+                                                              
 ```
 ## Ongoing Projects (2)
 [![Amigos: A Social Media Platform](https://github-readme-stats.vercel.app/api/pin/?username=srthkpthk&repo=amigos)](https://github.com/srthkpthk/amigos)
