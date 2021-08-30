@@ -14,27 +14,26 @@
 - 😄 Pronouns: He/Him/His
 - 🤫 I'm writing a book for OOP's in HTML
 ```
-         eeeeeeeeeeeeeeeee            v3num@nullvector 
-      eeeeeeeeeeeeeeeeeeeeeee         ---------------- 
-    eeeee  eeeeeeeeeeee   eeeee       OS: elementary OS 5.1.7 Hera x86_64 
+         eeeeeeeeeeeeeeeee            v3num@HP-Laptop-15-bs1xx-4d8cf9d3 
+      eeeeeeeeeeeeeeeeeeeeeee         --------------------------------- 
+    eeeee  eeeeeeeeeeee   eeeee       OS: elementary OS 6 Odin x86_64 
   eeee   eeeee       eee     eeee     Host: HP Laptop 15-bs1xx 
- eeee   eeee          eee     eeee    Kernel: 5.4.0-77-generic 
-eee    eee            eee       eee   Uptime: 5 hours, 22 mins 
-eee   eee            eee        eee   Packages: 1729 
-ee    eee           eeee       eeee   Shell: bash 4.4.20 
+ eeee   eeee          eee     eeee    Kernel: 5.11.0-27-generic 
+eee    eee            eee       eee   Uptime: null mins 
+eee   eee            eee        eee   Packages: 1640 (dpkg), 13 (flatpak) 
+ee    eee           eeee       eeee   Shell: bash 5.0.17 
 ee    eee         eeeee      eeeeee   Resolution: 1920x1080 
 ee    eee       eeeee      eeeee ee   DE: Pantheon 
 eee   eeee   eeeeee      eeeee  eee   WM: Mutter(Gala) 
-eee    eeeeeeeeee     eeeeee    eee   Terminal: io.elementary.t 
- eeeeeeeeeeeeeeeeeeeeeeee    eeeee    CPU: Intel i5-8250U (8) @ 3.400GHz 
-  eeeeeeee eeeeeeeeeeee      eeee     GPU: AMD Radeon HD 8670A/8670M/8690M 
-    eeeee                 eeeee       GPU: Intel UHD Graphics 620 
-      eeeeeee         eeeeeee         Memory: 2518MiB / 11898MiB 
-         eeeeeeeeeeeeeeeee 
-                                                              
+eee    eeeeeeeeee     eeeeee    eee   Theme: io.elementary.stylesheet.mint [GTK3] 
+ eeeeeeeeeeeeeeeeeeeeeeee    eeeee    Icons: elementary [GTK3] 
+  eeeeeeee eeeeeeeeeeee      eeee     Terminal: io.elementary.t 
+    eeeee                 eeeee       CPU: Intel i5-8250U (8) @ 1.600GHz 
+      eeeeeee         eeeeeee         GPU: Intel UHD Graphics 620 
+         eeeeeeeeeeeeeeeee            GPU: AMD ATI Radeon HD 8670A/8670M/8690M / R5 M330 / M430 / Radeon 520 Mobile 
+                                      Memory: 3413MiB / 15927MiB                                  
 ```
 ## Ongoing Projects (2)
-[![Amigos: A Social Media Platform](https://github-readme-stats.vercel.app/api/pin/?username=srthkpthk&repo=amigos)](https://github.com/srthkpthk/amigos)
 [![WallEye](https://github-readme-stats.vercel.app/api/pin/?username=srthkpthk&repo=walleye)](https://github.com/srthkpthk/walleye)
 
 ### Have a Project  >  [Submit Details](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=srthk.pthk4@gmail.com&su=Hello%20Srthk%20i%20have%20an%20astonishing%20project%20named%20%20-%3E&cc=sarthakforupwork@gmail.com&tf=1)
