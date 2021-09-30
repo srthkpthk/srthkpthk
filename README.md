@@ -14,24 +14,24 @@
 - 😄 Pronouns: He/Him/His
 - 🤫 I'm writing a book for OOP's in HTML
 ```
-         eeeeeeeeeeeeeeeee            v3num@HP-Laptop-15-bs1xx-4d8cf9d3 
-      eeeeeeeeeeeeeeeeeeeeeee         --------------------------------- 
-    eeeee  eeeeeeeeeeee   eeeee       OS: elementary OS 6 Odin x86_64 
-  eeee   eeeee       eee     eeee     Host: HP Laptop 15-bs1xx 
- eeee   eeee          eee     eeee    Kernel: 5.11.0-27-generic 
-eee    eee            eee       eee   Uptime: null mins 
-eee   eee            eee        eee   Packages: 1640 (dpkg), 13 (flatpak) 
-ee    eee           eeee       eeee   Shell: bash 5.0.17 
-ee    eee         eeeee      eeeeee   Resolution: 1920x1080 
-ee    eee       eeeee      eeeee ee   DE: Pantheon 
-eee   eeee   eeeeee      eeeee  eee   WM: Mutter(Gala) 
-eee    eeeeeeeeee     eeeeee    eee   Theme: io.elementary.stylesheet.mint [GTK3] 
- eeeeeeeeeeeeeeeeeeeeeeee    eeeee    Icons: elementary [GTK3] 
-  eeeeeeee eeeeeeeeeeee      eeee     Terminal: io.elementary.t 
-    eeeee                 eeeee       CPU: Intel i5-8250U (8) @ 1.600GHz 
-      eeeeeee         eeeeeee         GPU: Intel UHD Graphics 620 
-         eeeeeeeeeeeeeeeee            GPU: AMD ATI Radeon HD 8670A/8670M/8690M / R5 M330 / M430 / Radeon 520 Mobile 
-                                      Memory: 3413MiB / 15927MiB                                  
+                     ./o.                  srthk@nullvector 
+                   ./sssso-                ---------------- 
+                 `:osssssss+-              OS: EndeavourOS Linux x86_64 
+               `:+sssssssssso/.            Host: HP Laptop 15-bs1xx 
+             `-/ossssssssssssso/.          Kernel: 5.14.8-arch1-1 
+           `-/+sssssssssssssssso+:`        Uptime: 12 mins 
+         `-:/+sssssssssssssssssso+/.       Packages: 925 (pacman) 
+       `.://osssssssssssssssssssso++-      Shell: bash 5.1.8 
+      .://+ssssssssssssssssssssssso++:     Resolution: 1920x1080 
+    .:///ossssssssssssssssssssssssso++:    DE: Plasma 5.22.5 
+  `:////ssssssssssssssssssssssssssso+++.   WM: KWin 
+`-////+ssssssssssssssssssssssssssso++++-   Theme: Breeze Dark [Plasma], Breeze [GTK2/3] 
+ `..-+oosssssssssssssssssssssssso+++++/`   Icons: [Plasma], breeze-dark [GTK2/3] 
+   ./++++++++++++++++++++++++++++++/:.     Terminal: konsole 
+  `:::::::::::::::::::::::::------``       CPU: Intel i5-8250U (8) @ 3.400GHz 
+                                           GPU: AMD ATI Radeon HD 8670A/8670M/8690M / R5 M330 / M430 / Radeon  
+                                           GPU: Intel UHD Graphics 620 
+                                           Memory: 1707MiB / 15920MiB                              
 ```
 ## Ongoing Projects (2)
 [![WallEye](https://github-readme-stats.vercel.app/api/pin/?username=srthkpthk&repo=walleye)](https://github.com/srthkpthk/walleye)
