@@ -14,27 +14,29 @@
 - 😄 Pronouns: He/Him/His
 - 🤫 I'm writing a book for OOP's in HTML
 ```
-                     ./o.                  srthk@nullvector 
-                   ./sssso-                ---------------- 
-                 `:osssssss+-              OS: EndeavourOS Linux x86_64 
-               `:+sssssssssso/.            Host: HP Laptop 15-bs1xx 
-             `-/ossssssssssssso/.          Kernel: 5.14.8-arch1-1 
-           `-/+sssssssssssssssso+:`        Uptime: 12 mins 
-         `-:/+sssssssssssssssssso+/.       Packages: 925 (pacman) 
-       `.://osssssssssssssssssssso++-      Shell: bash 5.1.8 
-      .://+ssssssssssssssssssssssso++:     Resolution: 1920x1080 
-    .:///ossssssssssssssssssssssssso++:    DE: Plasma 5.22.5 
-  `:////ssssssssssssssssssssssssssso+++.   WM: KWin 
-`-////+ssssssssssssssssssssssssssso++++-   Theme: Breeze Dark [Plasma], Breeze [GTK2/3] 
- `..-+oosssssssssssssssssssssssso+++++/`   Icons: [Plasma], breeze-dark [GTK2/3] 
-   ./++++++++++++++++++++++++++++++/:.     Terminal: konsole 
-  `:::::::::::::::::::::::::------``       CPU: Intel i5-8250U (8) @ 3.400GHz 
-                                           GPU: AMD ATI Radeon HD 8670A/8670M/8690M / R5 M330 / M430 / Radeon  
-                                           GPU: Intel UHD Graphics 620 
-                                           Memory: 1707MiB / 15920MiB                              
+             .',;::::;,'.                srthk@fedora 
+         .';:cccccccccccc:;,.            ------------ 
+      .;cccccccccccccccccccccc;.         OS: Fedora 34 (Workstation Edition) x8 
+    .:cccccccccccccccccccccccccc:.       Host: HP Laptop 15-bs1xx 
+  .;ccccccccccccc;.:dddl:.;ccccccc;.     Kernel: 5.14.13-200.fc34.x86_64 
+ .:ccccccccccccc;OWMKOOXMWd;ccccccc:.    Uptime: 35 mins 
+.:ccccccccccccc;KMMc;cc;xMMc:ccccccc:.   Packages: 1735 (rpm) 
+,cccccccccccccc;MMM.;cc;;WW::cccccccc,   Shell: bash 5.1.0 
+:cccccccccccccc;MMM.;cccccccccccccccc:   Resolution: 1920x1080 
+:ccccccc;oxOOOo;MMM0OOk.;cccccccccccc:   DE: GNOME 40.4 
+cccccc:0MMKxdd:;MMMkddc.;cccccccccccc;   WM: Mutter 
+ccccc:XM0';cccc;MMM.;cccccccccccccccc'   WM Theme: Adwaita 
+ccccc;MMo;ccccc;MMW.;ccccccccccccccc;    Theme: Adwaita-dark [GTK2/3] 
+ccccc;0MNc.ccc.xMMd:ccccccccccccccc;     Icons: Adwaita [GTK2/3] 
+cccccc;dNMWXXXWM0::cccccccccccccc:,      Terminal: gnome-terminal 
+cccccccc;.:odl:.;cccccccccccccc:,.       CPU: Intel i5-8250U (8) @ 3.400GHz 
+:cccccccccccccccccccccccccccc:'.         GPU: AMD ATI Radeon HD 8670A/8670M/869 
+.:cccccccccccccccccccccc:;,..            GPU: Intel UHD Graphics 620 
+  '::cccccccccccccc::;,.                 Memory: 2477MiB / 15908MiB 
 ```
-## Ongoing Projects (2)
-[![WallEye](https://github-readme-stats.vercel.app/api/pin/?username=srthkpthk&repo=walleye)](https://github.com/srthkpthk/walleye)
+## Ongoing Projects (1)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=srthkpthk&repo=portfolio)](https://github.com/srthkpthk/portfolio)
+
 
 ### Have a Project  >  [Submit Details](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=srthk.pthk4@gmail.com&su=Hello%20Srthk%20i%20have%20an%20astonishing%20project%20named%20%20-%3E&cc=sarthakforupwork@gmail.com&tf=1)
 ## Loves 
