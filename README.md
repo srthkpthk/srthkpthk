@@ -13,26 +13,25 @@
 - 💬 Ask me about Flutter or any tech related stuff i can help
 - 😄 Pronouns: He/Him/His
 - 🤫 I'm writing a book for OOP's in HTML
-```
-             .',;::::;,'.                srthk@fedora 
+```             .',;::::;,'.                srthk@fedora 
          .';:cccccccccccc:;,.            ------------ 
-      .;cccccccccccccccccccccc;.         OS: Fedora 34 (Workstation Edition) x8 
-    .:cccccccccccccccccccccccccc:.       Host: HP Laptop 15-bs1xx 
-  .;ccccccccccccc;.:dddl:.;ccccccc;.     Kernel: 5.14.13-200.fc34.x86_64 
- .:ccccccccccccc;OWMKOOXMWd;ccccccc:.    Uptime: 35 mins 
-.:ccccccccccccc;KMMc;cc;xMMc:ccccccc:.   Packages: 1735 (rpm) 
-,cccccccccccccc;MMM.;cc;;WW::cccccccc,   Shell: bash 5.1.0 
+      .;cccccccccccccccccccccc;.         OS: Fedora Linux 35 (Workstation Edition) x86_64 
+    .:cccccccccccccccccccccccccc:.       Host: 82K2 IdeaPad Gaming 3 15ACH6 
+  .;ccccccccccccc;.:dddl:.;ccccccc;.     Kernel: 5.14.10-300.fc35.x86_64 
+ .:ccccccccccccc;OWMKOOXMWd;ccccccc:.    Uptime: 58 mins 
+.:ccccccccccccc;KMMc;cc;xMMc:ccccccc:.   Packages: 1695 (rpm) 
+,cccccccccccccc;MMM.;cc;;WW::cccccccc,   Shell: bash 5.1.8 
 :cccccccccccccc;MMM.;cccccccccccccccc:   Resolution: 1920x1080 
-:ccccccc;oxOOOo;MMM0OOk.;cccccccccccc:   DE: GNOME 40.4 
+:ccccccc;oxOOOo;MMM0OOk.;cccccccccccc:   DE: GNOME 41.4 
 cccccc:0MMKxdd:;MMMkddc.;cccccccccccc;   WM: Mutter 
 ccccc:XM0';cccc;MMM.;cccccccccccccccc'   WM Theme: Adwaita 
 ccccc;MMo;ccccc;MMW.;ccccccccccccccc;    Theme: Adwaita-dark [GTK2/3] 
 ccccc;0MNc.ccc.xMMd:ccccccccccccccc;     Icons: Adwaita [GTK2/3] 
 cccccc;dNMWXXXWM0::cccccccccccccc:,      Terminal: gnome-terminal 
-cccccccc;.:odl:.;cccccccccccccc:,.       CPU: Intel i5-8250U (8) @ 3.400GHz 
-:cccccccccccccccccccccccccccc:'.         GPU: AMD ATI Radeon HD 8670A/8670M/869 
-.:cccccccccccccccccccccc:;,..            GPU: Intel UHD Graphics 620 
-  '::cccccccccccccc::;,.                 Memory: 2477MiB / 15908MiB 
+cccccccc;.:odl:.;cccccccccccccc:,.       CPU: AMD Ryzen 7 5800H with Radeon Graphics (16) @ 3.200GHz 
+:cccccccccccccccccccccccccccc:'.         GPU: NVIDIA GeForce GTX 1650 Mobile / Max-Q 
+.:cccccccccccccccccccccc:;,..            GPU: AMD ATI 05:00.0 Cezanne 
+  '::cccccccccccccc::;,.                 Memory: 13462MiB / 22873MiB 
 ```
 ## Ongoing Projects (1)
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=srthkpthk&repo=portfolio)](https://github.com/srthkpthk/portfolio)
