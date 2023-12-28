@@ -11,27 +11,28 @@
   - Lot More to Do 
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/srthk-pthk-7a673a170/) 🔺 [Instagram](https://www.instagram.com/mr_insomaniac/) 🔺 [Facebook](https://www.facebook.com/srthkpthk) 
 - 💬 Ask me about Flutter or any tech related stuff i can help
-- 😄 Pronouns: He/Him/His
+- 😄 Pronouns: He/Him
 - 🤫 I'm writing a book for OOP's in HTML
-```             .',;::::;,'.                srthk@fedora 
-         .';:cccccccccccc:;,.            ------------ 
-      .;cccccccccccccccccccccc;.         OS: Fedora Linux 35 (Workstation Edition) x86_64 
-    .:cccccccccccccccccccccccccc:.       Host: 82K2 IdeaPad Gaming 3 15ACH6 
-  .;ccccccccccccc;.:dddl:.;ccccccc;.     Kernel: 5.14.10-300.fc35.x86_64 
- .:ccccccccccccc;OWMKOOXMWd;ccccccc:.    Uptime: 58 mins 
-.:ccccccccccccc;KMMc;cc;xMMc:ccccccc:.   Packages: 1695 (rpm) 
-,cccccccccccccc;MMM.;cc;;WW::cccccccc,   Shell: bash 5.1.8 
-:cccccccccccccc;MMM.;cccccccccccccccc:   Resolution: 1920x1080 
-:ccccccc;oxOOOo;MMM0OOk.;cccccccccccc:   DE: GNOME 41.4 
-cccccc:0MMKxdd:;MMMkddc.;cccccccccccc;   WM: Mutter 
-ccccc:XM0';cccc;MMM.;cccccccccccccccc'   WM Theme: Adwaita 
-ccccc;MMo;ccccc;MMW.;ccccccccccccccc;    Theme: Adwaita-dark [GTK2/3] 
-ccccc;0MNc.ccc.xMMd:ccccccccccccccc;     Icons: Adwaita [GTK2/3] 
-cccccc;dNMWXXXWM0::cccccccccccccc:,      Terminal: gnome-terminal 
-cccccccc;.:odl:.;cccccccccccccc:,.       CPU: AMD Ryzen 7 5800H with Radeon Graphics (16) @ 3.200GHz 
-:cccccccccccccccccccccccccccc:'.         GPU: NVIDIA GeForce GTX 1650 Mobile / Max-Q 
-.:cccccccccccccccccccccc:;,..            GPU: AMD ATI 05:00.0 Cezanne 
-  '::cccccccccccccc::;,.                 Memory: 13462MiB / 22873MiB 
+```
+                     ./o.                  srthk@friday 
+                   ./sssso-                ------------ 
+                 `:osssssss+-              OS: EndeavourOS Linux x86_64 
+               `:+sssssssssso/.            Host: 82K2 IdeaPad Gaming 3 15ACH6 
+             `-/ossssssssssssso/.          Kernel: 6.6.7-arch1-1 
+           `-/+sssssssssssssssso+:`        Uptime: 1 day, 15 mins 
+         `-:/+sssssssssssssssssso+/.       Packages: 865 (pacman) 
+       `.://osssssssssssssssssssso++-      Shell: fish 3.6.4 
+      .://+ssssssssssssssssssssssso++:     Resolution: 1920x1080 
+    .:///ossssssssssssssssssssssssso++:    DE: Plasma 5.27.10 
+  `:////ssssssssssssssssssssssssssso+++.   WM: KWin 
+`-////+ssssssssssssssssssssssssssso++++-   WM Theme: Monterey-dark 
+ `..-+oosssssssssssssssssssssssso+++++/`   Theme: [Plasma], Breeze [GTK2] 
+   ./++++++++++++++++++++++++++++++/:.     Icons: [Plasma], WhiteSur-dark [GTK2/3] 
+  `:::::::::::::::::::::::::------``       Terminal: konsole 
+                                           CPU: AMD Ryzen 7 5800H with Radeon Graphics (16) @ 4.463GHz 
+                                           GPU: NVIDIA GeForce GTX 1650 Mobile / Max-Q 
+                                           GPU: AMD ATI Radeon Vega Series / Radeon Vega Mobile Series 
+                                           Memory: 3530MiB / 22877MiB 
 ```
 ## Ongoing Projects (1)
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=srthkpthk&repo=portfolio)](https://github.com/srthkpthk/portfolio)
